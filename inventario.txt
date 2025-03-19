@@ -1,0 +1,2 @@
+Mouse, 10, 20
+Teclado, 7, 50
